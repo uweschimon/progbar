@@ -3,7 +3,9 @@
 # There are no significant dependencies
 # enough to use
 
-set ST=/home 
+#!/bin/sh
+
+set ST=/home/ 
 set MAX=`find "$ST" -type f | wc -l | awk '{print $1}'`
 set ds=`date +%s`
 . ./progbar.sh
