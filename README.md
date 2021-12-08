@@ -1,7 +1,7 @@
 # progbar 
-# progbar is a simple progress indicator in a shell environment, but it can be used and changed in many ways.
-# There are no significant dependencies
-# enough to use
+progbar is a simple progress indicator in a shell environment, but it can be used and changed in many ways.
+There are no significant dependencies
+enough to use
 
 #!/bin/sh
 
